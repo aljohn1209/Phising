@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Phishing URL Prediction using Gradient Boosting Classifier
 This project uses a Gradient Boosting Classifier to predict whether a given URL is phishing or not. The model is trained on a dataset (phishing.csv) to classify URLs as either safe or unsafe. The web application, built using Flask, allows users to input a URL and get a prediction on whether it's safe to visit or potentially a phishing attempt.
 
@@ -39,3 +40,6 @@ phishing.csv: The dataset used to train the model.
 templates/index.html: The HTML file for the front-end interface.
 
 feature.py: A Python script containing the function to generate data for prediction.
+=======
+# Phising
+>>>>>>> 07eb034a829ac7a0103101f1c680f95a1592f6f3
